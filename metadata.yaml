@@ -1,0 +1,27 @@
+_repo: Tiberius-the-Tyrant_66690
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tarver, J. C.
+    gutenberg_agent_id: '53918'
+    url: http://www.gutenberg.org/2009/agents/53918
+description: ''
+gutenberg_issued: '2021-11-08'
+identifiers:
+  gutenberg: '66690'
+language: en
+pgterms:marc904: https://archive.org/details/tiberiustyrant00tarvuoft
+pgterms:marc905: 20190612173329tarver
+pgterms:marc906: '1902'
+pgterms:marc907: GB
+production_note: MWS, Charlie Howard, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: United Kingdom :Archibald Constable and Co. Ltd.,1902.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tiberius the Tyrant
+url: http://www.gutenberg.org/ebooks/66690
